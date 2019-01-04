@@ -1,3 +1,5 @@
+declare module '*.svg';
+
 declare module 'rc-calendar*';
 
 declare module 'rc-time-picker*';
@@ -91,11 +93,13 @@ declare module '*.json' {
 
 declare module 'lodash/debounce';
 
+declare module 'lodash/padEnd';
+
+declare module 'lodash/padStart';
+
 declare module 'lodash/uniqBy';
 
-declare module 'raf';
-
-declare module 'intersperse';
+declare module "raf";
 
 declare module 'react-lifecycles-compat';
 

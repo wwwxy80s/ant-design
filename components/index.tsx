@@ -59,6 +59,8 @@ export { default as Dropdown } from './dropdown';
 
 export { default as Drawer } from './drawer';
 
+export { default as Empty } from './empty';
+
 export { default as Form } from './form';
 
 export { default as Icon } from './icon';
@@ -78,6 +80,8 @@ export { default as message } from './message';
 export { default as Menu } from './menu';
 
 export { default as Modal } from './modal';
+
+export { default as Number } from './number';
 
 export { default as notification } from './notification';
 
